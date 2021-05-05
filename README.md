@@ -1,5 +1,4 @@
 # ToolBoxes for ArcGisPro
-ToolBoxes for ArcGisPro
 
 ## 1. CountingPlants.pyt
 Description: Counting of non-overlapping plants (in early stage of growth)

@@ -8,12 +8,14 @@
 
 ## 3. ComparisonOrtomosaics.pyt
 **Description:** Non-reference comparison of two orthomosaics according to following criteria:
-- FFT spectrum
-![Analiza_fft](https://user-images.githubusercontent.com/39468585/117106954-1171f700-ad81-11eb-8551-b80a96be88d8.png)
-- histograms
-![Analiza_histograms](https://user-images.githubusercontent.com/39468585/117107004-2cdd0200-ad81-11eb-9223-e0f380eb930d.png)
-- Sobel edges intensities
-![Analiza_Sobel_edges](https://user-images.githubusercontent.com/39468585/117107053-42eac280-ad81-11eb-9603-a8fe321c4f8d.png)
+- FFT spectrum,
+- histograms,
+- mean intensity of Sobel filtered edge image,
+- FISH (Fast Image Sharpness),
+- skewness of image histogram,
+- kurtosis of image histogram,
+- mean of pixel intensities,
+- standard deviation of pixel intensities.
 
 ## 4. TemporalZonalStatistics.pyt
 **Description:** Calculate statistics in zones for rasters from different times of data collecting

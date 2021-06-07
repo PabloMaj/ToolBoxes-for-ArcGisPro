@@ -20,4 +20,7 @@
 ## 4. TemporalZonalStatistics.pyt
 **Description:** Calculate statistics in zones for rasters from different times of data collecting
 
+## 5. DetectRows.pyt
+**Description:** Find rows in binary image (vegetation index after thresholding)
+
 

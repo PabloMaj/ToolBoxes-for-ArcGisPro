@@ -24,7 +24,7 @@
 **Description:** Find rows in binary image (vegetation index after thresholding)
 
 ##
-![alt text](https://github.com/PabloMaj/ToolBoxes-for-ArcGisPro/BioStrategLogo.png?raw=true)
+![alt text](https://github.com/PabloMaj/ToolBoxes-for-ArcGisPro/blob/main/BioStrategLogo.png?raw=true)
 The work was supported by National Centre for Research and Development, Poland (NCBiR); grant BIOSTRATEG3/343547/8/NCBR/2017.
 
 

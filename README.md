@@ -23,4 +23,6 @@
 ## 5. DetectRows.pyt
 **Description:** Find rows in binary image (vegetation index after thresholding)
 
+The work was supported by National Centre for Research and Development, Poland (NCBiR); grant BIOSTRATEG3/343547/8/NCBR/2017.
+
 
